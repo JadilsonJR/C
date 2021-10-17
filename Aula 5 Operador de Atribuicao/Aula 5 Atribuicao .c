@@ -17,9 +17,7 @@ int main(){
 	x=ch2;
 	printf("x = %d \n", x); // Apresenta o numero que corresponde o item na tabela ASC 
 		
-		
-		
 	system("pause");
 	return 0;
 }
-
+	
