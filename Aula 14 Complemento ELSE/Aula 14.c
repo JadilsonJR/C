@@ -7,7 +7,7 @@ int main(){
 	int x;
 	printf("Digite um Numero: ");
 	scanf("%d",&x);
-	if(x%2 ==0){
+	if(  x%2 ==0){
 		printf("O numero %d e PAR.\n",x);
 	}else{
 		printf("O numero %d e IMPAR.\n",x);
