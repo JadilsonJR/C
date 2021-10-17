@@ -5,6 +5,7 @@ int main(){
 	const int num=10; // Criando uma constante com uma variavel 
 	printf("Constante %d \n",num);
 	printf("PI = %f",PI);
+	system("pause");
 	return 0;
 }
 
