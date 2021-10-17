@@ -12,13 +12,14 @@ int main(){
 	
 	int x= 97;
 	char ch1,ch2='A';
-	ch1=x;
-	printf("ch1 = %c \n",ch1);
+	ch1=x;  
+	printf("ch1 = %c \n",ch1); // Apresenta o item que corresponde ao numero inteiro na tabela ASC
 	x=ch2;
-	printf("x = %d \n", x);
+	printf("x = %d \n", x); // Apresenta o numero que corresponde o item na tabela ASC 
+		
+		
 		
 	system("pause");
 	return 0;
 }
-
 
