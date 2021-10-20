@@ -13,10 +13,7 @@ int main(){
 			break;
 		}
 		printf("%d\n",a);
-	
 	}
-		
-	
 	system("pause");
 	return 0;
 }
